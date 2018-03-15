@@ -56,14 +56,6 @@ font-family: 'Bitter', serif;
     background-color: #ffffff;
   }
 
-  div {
-    display: inline;
-  }
-
-  .cards {
-    margin: 0;
-  }
-
   .last:hover {
     background-color: #ffffff;
   }
