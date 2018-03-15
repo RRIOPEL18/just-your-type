@@ -35,41 +35,41 @@ html {
 
 @media only screen and (min-width: 38em) {
 
-html {
-  background-color: #ffff10;
-}
+  html {
+    background-color: #ffff10;
+  }
 
-p {
-  color: #ffffff;
-}
+  p {
+    color: #ffffff;
+  }
 
-.cards {
-  font-size: 1.5rem;
-}
+  .cards {
+    font-size: 1.5rem;
+  }
 
-.last{
-  font-size: 2rem;
-}
+  .last{
+    font-size: 2rem;
+  }
 
-.last:hover {
-  background-color: #ffff10;
-}
+  .last:hover {
+    background-color: #ffff10;
+  }
 }
 
 @media only screen and (min-width: 60em) {
 
-html {
-  background-color: #ffffff;
-}
+  html {
+    background-color: #ffffff;
+  }
 
-div {
-  display: inline;
-}
+  div {
+    display: inline;
+  }
 
-.cards {
-  margin: 0;
-}
+  .cards {
+    margin: 0;
+  }
 
-.last:hover {
-  background-color: #ffffff;
-}
+  .last:hover {
+    background-color: #ffffff;
+  }
