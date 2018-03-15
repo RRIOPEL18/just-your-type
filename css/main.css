@@ -10,7 +10,7 @@ html {
 }
 
 .limelight {
-font-family: 'Bitter', serif;
+  font-family: 'Bitter', serif;
 }
 .cards {
   background-color: #179482;
@@ -51,3 +51,4 @@ font-family: 'Bitter', serif;
   .last:hover {
     background-color: #ffffff;
   }
+}
