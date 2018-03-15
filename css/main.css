@@ -37,14 +37,6 @@ font-family: 'Bitter', serif;
     color: #ffffff;
   }
 
-  .cards {
-    font-size: 1.5rem;
-  }
-
-  .last{
-    font-size: 2rem;
-  }
-
   .last:hover {
     background-color: #ffff10;
   }
